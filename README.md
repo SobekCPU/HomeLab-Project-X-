@@ -9,7 +9,6 @@ The goal is to develop practical skills in:
 * Network security
 * Active Directory
 * Threat detection
-* Attack simulation
 * Security monitoring
 * Incident response
 
