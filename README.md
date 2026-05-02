@@ -79,7 +79,9 @@ diagrams/
 
 ![Olivia Domain Joined](screenshots/02-domain-controller/04-olivia-domain-joined.png)
 
-![Guest Domain Joined](screenshots/02-domain-controller/05-guest-domain-joined.png)
+![Bothma Domain Joined](screenshots/02-domain-controller/05-bothma-domain-joined.png)
+
+![Guest Domain Joined](screenshots/02-domain-controller/06-guest-domain-joined.png)
 
 ---
 
