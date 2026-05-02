@@ -85,13 +85,13 @@ diagrams/
 
 ### Linux Client
 
-![Linux Client IP Config](screenshots/04-clients/01-linux-client-ip-config.png)
+![Linux Client IP Config](screenshots/04-Clients/01-linux-client-ip-config.png)
 
-![Linux Hostname and IP](screenshots/04-clients/02-linux-hostname-ip.png)
+![Linux Hostname and IP](screenshots/04-Clients/02-linux-hostname-ip.png)
 
 ### Windows Client
 
-![Windows Client IP Config](screenshots/04-clients/03-windows-client-ip-config.png)
+![Windows Client IP Config](screenshots/04-Clients/03-windows-client-ip-config.png)
 
 ---
 ---
