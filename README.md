@@ -10,7 +10,6 @@ The goal is to develop practical skills in:
 * Active Directory
 * Threat detection
 * Security monitoring
-* Incident response
 
 Rather than only learning theory, this project helps me understand how systems are built, attacked, monitored, and defended.
 
