@@ -47,9 +47,8 @@ Current environment includes:
 * [x] GitHub Project Created
 * [x] Virtual Machines Setup
 * [x] Network Connectivity
-* [ ] Domain Controller Deployment
+* [x] Domain Controller Deployment
 * [ ] Wazuh Integration
-* [ ] Attack Simulations
 * [ ] Detection Rules
 * [ ] Final Documentation
 
