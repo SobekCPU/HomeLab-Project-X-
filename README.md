@@ -67,6 +67,22 @@ diagrams/
 
 ---
 
+## Domain Controller
+
+### Active Directory Configuration
+
+![Admin Domain Joined](screenshots/02-domain-controller/01-admin-domain-joined.png)
+
+![Active Directory Users](screenshots/02-domain-controller/02-active-directory-users.png)
+
+![Server Manager](screenshots/02-domain-controller/03-server-manager-dashboard.png)
+
+![Olivia Domain Joined](screenshots/02-domain-controller/04-olivia-domain-joined.png)
+
+![Guest Domain Joined](screenshots/02-domain-controller/05-guest-domain-joined.png)
+
+---
+
 ## 📌 Purpose
 
 This project represents my transition from theory into practical cybersecurity experience by building and documenting a full lab environment.
