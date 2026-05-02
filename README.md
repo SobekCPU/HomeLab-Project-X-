@@ -95,7 +95,7 @@ diagrams/
 
 ## NAT Network
 
-### NAT Newtwork Setup
+### NAT Network Setup
 ![NAT Configuration](screenshots/01-Network/01-nat-network-config.png)
 
 ![Network Adapter in Domain Controller](screenshots/01-Network/02-vm-network-adapter.png)
