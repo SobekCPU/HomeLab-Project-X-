@@ -93,7 +93,13 @@ diagrams/
 
 ![Windows Client IP Config](screenshots/04-Clients/03-windows-client-ip-config.png)
 
----
+## NAT Network
+
+### NAT Newtwork Setup
+![NAT Configuration](screenshots/01-Network/01-nat-network-config.png)
+
+![Network Adapter in Domain Controller](screenshots/01-Network/02-vm-network-adapter.png)
+
 ---
 
 ## 📌 Purpose
