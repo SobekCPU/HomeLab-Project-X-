@@ -46,8 +46,8 @@ Current environment includes:
 * [x] Virtual Machines Setup
 * [x] Network Connectivity
 * [x] Domain Controller Deployment
-* [ ] Wazuh Integration
-* [ ] Detection Rules
+* [x] Wazuh Integration
+* [x] Detection Rules
 * [ ] Final Documentation
 
 ---
@@ -75,7 +75,7 @@ diagrams/
 
 ### Active Directory Configuration
 
-![Admin Domain Joined](screenshots/02-domain-controller/01-admin-domain-joined.png)
+![Admin Domain Joined](screenshots/02-domain-controller/01-admin-domains-joined.png)
 
 ![Active Directory Users](screenshots/02-domain-controller/02-active-directory-users.png)
 
@@ -86,6 +86,22 @@ diagrams/
 ![Bothma Domain Joined](screenshots/02-domain-controller/05-bothma-domain-joined.png)
 
 ![Guest Domain Joined](screenshots/02-domain-controller/06-guest-domain-joined.png)
+
+## Wazuh
+
+### Wazuh Dashboard
+
+![Linux Agent Connected](screenshots/03-Wazuh/01-linux-agent-connected.png)
+
+![Wazuh Agents Overview](screenshots/03-Wazuh/02-wazuh-agents-overview.png)
+
+![Domain Controller Monitoring](screenshots/03-Wazuh/03-domain-controller-monitoring.png)
+
+![Wazuh Dashboard](screenshots/03-Wazuh/04-wazuh-dashboard.png)
+
+![Domain Controller Agent Setup](screenshots/03-Wazuh/05-domain-controller-agent-setup.png)
+
+![Windows Client Agent Setup](screenshots/03-Wazuh/06-windows-client-agent-setup.png)
 
 
 ## Client Systems
