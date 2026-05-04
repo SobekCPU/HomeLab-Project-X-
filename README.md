@@ -16,6 +16,13 @@ Rather than only learning theory, this project helps me understand how systems a
 ---
 
 ## 🏗️ Lab Environment
+## Network Topology
+
+![Project X Network Topology](diagrams/project-x-network-topology.png)
+
+---
+
+
 
 Current environment includes:
 
