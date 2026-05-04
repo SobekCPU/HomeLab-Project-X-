@@ -16,15 +16,8 @@ Rather than only learning theory, this project helps me understand how systems a
 ---
 
 ## 🏗️ Lab Environment
-## Network Topology
 
-![Project X Network Topology](diagrams/project-x-network-topology.png)
-
----
-
-
-
-Current environment includes:
+Environment includes:
 
 * Windows Server (Domain Controller)
 * Windows Client Machines
@@ -32,7 +25,9 @@ Current environment includes:
 * Kali Linux Attacker Machine
 * Security Monitoring Server
 * Virtual Network Environment
+## Network Topology
 
+![Project X Network Topology](diagrams/project-x-network-topology.png)
 ---
 
 ## 🎯 Skills Being Developed
